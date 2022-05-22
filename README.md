@@ -11,7 +11,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/text_case-python/blob/main/LICENSE)
 
 ### Author:
-- [@AnamiikaJha](https://github.com/anamiikajha)
+[@AnamiikaJha](https://github.com/anamiikajha)
 
 ### Languages used in this repo:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
