@@ -8,7 +8,7 @@
 - `python lowercase.py` to convert any text to the lowercase.
 
 # License:
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/text_case-python/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/text_case-python/blob/main/LICENSE)
 
 ### Author:
 - [@AnamiikaJha](https://github.com/anamiikajha)
