@@ -14,5 +14,5 @@
 - [@AnamiikaJha](https://github.com/anamiikajha)
 
 ### Languages used in this repo:
-- [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
